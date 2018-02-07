@@ -7,3 +7,10 @@ Database -> RDS / DynamoDB / Redshift / Aurora / Elasticache / AWS Database migr
 Compute -> EC2 / ECS / Elastic Beanstalk / ELB / Autoscaling / Lambda
 
 Networking & Content delivery service -> VPC / Cloudfront / Route53 / direct connect / ELB
+
+Messaging -> Simple email service / simple notification service / simple queue service
+
+Management Tools -> Cloudformation / Cloudwatch / Trusted adviser / Opsworks / Cloud Trial
+
+Security, Identity & Complaince -> IAM / Directory service / Certificate Manager / Web Application Firewal / encryption key management service
+
