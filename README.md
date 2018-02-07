@@ -14,3 +14,5 @@ Management Tools -> Cloudformation / Cloudwatch / Trusted adviser / Opsworks / C
 
 Security, Identity & Complaince -> IAM / Directory service / Certificate Manager / Web Application Firewal / encryption key management service
 
+Analytics -> Elastic map reduce / elasatic search / kinesis / quick sight / data pipeline
+
