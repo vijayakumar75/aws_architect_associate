@@ -16,3 +16,5 @@ Security, Identity & Complaince -> IAM / Directory service / Certificate Manager
 
 Analytics -> Elastic map reduce / elasatic search / kinesis / quick sight / data pipeline
 
+General purpose(T2 / M3 / M4) / Compute Optimized(C3 / C4) / Memory Optimized(R3) / GPU(G2) / Storage Optimized(I2 / D2)
+
